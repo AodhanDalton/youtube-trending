@@ -9,3 +9,9 @@ A notebook showing the correlation between the number of views and the number of
 
 ## Evaluation
 A clear visual representation showing the correlation between the number of likes and the number of views.
+
+
+# Result 
+There is a strong positive correlation between likes and views. This trend is more visible in outlier cases.
+All of the visuals and explanation for this outcome can be found in the [main.pynb](./main.pynb) file
+
