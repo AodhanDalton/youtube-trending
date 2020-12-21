@@ -1,4 +1,7 @@
 # Youtube Trending Page correlation between views and likes
+
+The data used in this challenge can be found [here](https://www.kaggle.com/datasnaek/youtube-new)
+
 ## Task Details
 Figure out if there is a correlation between the number of views and the number of likes.
 
@@ -13,5 +16,5 @@ A clear visual representation showing the correlation between the number of like
 
 # Result 
 There is a strong positive correlation between likes and views. This trend is more visible in outlier cases.
-All of the visuals and explanation for this outcome can be found in the [main.pynb](./main.pynb) file
+All of the visuals and explanation for this outcome can be found in the [main.pynb](main.pynb) file
 
